@@ -1,3 +1,3 @@
 # sound-cc0
  
-- Sonud Open data by CC0 (Unlicenced)
+- Sonud Open data by CC0 (Unlicensed)
