@@ -1,6 +1,6 @@
-date,fn,name,mic,stereo
-2024-02-10,cracker1.wav,cracker big,MacBook Pro,false
-2024-02-10,cracker1v-stereo.wav,cracker big,iPhone 13 Pro,true
-2024-02-10,cracker1v.wav,cracker big,iPhone 13 Pro,false
-2024-02-10,cracker2.wav,cracker mini,MacBook Pro,false
-2024-02-10,wahaha.wav,laughter,MacBook Pro,false
+license,date,fn,ch,name,mic,place
+CC0,2024-02-10,cracker1.wav,1,cracker big,MacBook Pro,jig.jp
+CC0,2024-02-10,cracker1v-stereo.wav,2,cracker big,iPhone 13 Pro,jig.jp
+CC0,2024-02-10,cracker1v.wav,1,cracker big,iPhone 13 Pro,jig.jp
+CC0,2024-02-10,cracker2.wav,1,cracker mini,MacBook Pro,jig.jp
+CC0,2024-02-10,wahaha.wav,1,laughter,MacBook Pro,jig.jp
